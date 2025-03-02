@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 cd /d %~dp0
 REM 切换到当前脚本所在目录，确保 Git 命令在正确的 Git 仓库目录中执行
 
