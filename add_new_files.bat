@@ -9,6 +9,5 @@ git add .
 git commit -m "Add new files"
 echo 正在推送到远程仓库...
 git push origin main
-echo.
 echo Git 操作完成！
 pause
